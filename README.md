@@ -1,2 +1,4 @@
 # stepik_auto
-stepik_auto_tests_course
+Это репозиторий для хранения домашних работ по курсу автоматизация тестирования с использованием Selenium Python на stepik.org
+
+
